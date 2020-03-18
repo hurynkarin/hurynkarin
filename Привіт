@@ -1,0 +1,6 @@
+#include<stion>
+
+int mail(void)
+{
+print ("hello,%Karin%");
+}
